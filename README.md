@@ -160,7 +160,7 @@ Architecture separates:
 1. Clone the repository
 
 ```
-git clone <your-repo-link>
+git clone https://github.com/aditya-nagar/react-native-otp-auth
 ```
 
 2. Install dependencies
@@ -179,6 +179,11 @@ npx expo start
 - Press `w` for Web
 - Press `a` for Android
 - Or scan QR code using Expo Go
+
+---
+
+5. APK build link:
+- https://expo.dev/accounts/aditya_nagar/projects/otp-auth-app/builds/3bb4577e-e66e-4a61-8a4b-89c12c2d69aa
 
 ---
 
